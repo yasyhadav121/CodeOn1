@@ -1,4 +1,4 @@
-# CodeFunda - LeetCode Clone Project
+# CodeFunda 
 
 A full-stack LeetCode clone application with code execution, user authentication, and cloud storage capabilities.
 
